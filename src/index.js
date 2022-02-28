@@ -2,7 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import {HR} from './HR';
 import reportWebVitals from './reportWebVitals';
+
+//export const HR=()=><div><hr/>---------<hr/></div>
 
 ReactDOM.render(
   <React.StrictMode>
