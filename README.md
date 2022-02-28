@@ -8,7 +8,11 @@
 ##### Instructions taken from:
 
 https://www.pluralsight.com/guides/export-reactjs-components-as-node-modules-to-npm (for npm.js we can't publish private repositories there though)
+( downloaded as pdf in ./create_react_npm_package.pdf )
+
 +https://dev.to/dalenguyen/create-your-first-github-package-564f (for github)
+
+
 
 ################################## 
 ################################## 
