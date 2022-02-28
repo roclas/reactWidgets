@@ -1,11 +1,15 @@
 {
-  "name": "react-hr-component",
+  "name": "@roclas/reactwidgets",
   "version": "0.1.0",
   "private": false,
   "babel": {
     "presets": [
       "@babel/preset-react"
     ]
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "git://github.com/roclas/reactWidgets.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
